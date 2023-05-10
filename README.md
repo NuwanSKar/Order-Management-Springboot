@@ -36,6 +36,7 @@ Dependency injection; Loosely coupling;
      Controller; Service interface; Service; Repository; DTO; Entity
 •	Swagger 2
      Used to send and get requests
+     
 ![image](https://github.com/NuwanSKar/ordermanagement-Springboot/assets/126737598/492b0779-3c5b-45ee-bb76-b3c6e9e4e286)
 ![image](https://github.com/NuwanSKar/ordermanagement-Springboot/assets/126737598/e352700f-90d6-4185-a294-e14c3ea816a4)
 ![image](https://github.com/NuwanSKar/ordermanagement-Springboot/assets/126737598/e7d665a1-bd45-4c21-a44e-2fba48459326)
