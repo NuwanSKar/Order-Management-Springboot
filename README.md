@@ -1,7 +1,6 @@
 # ordermanagement-Springboot
  Order management API using Spring Boot, Java and MySQL
 
-Order Management System API
 This system includes; 
 
 1.	Customers
@@ -13,6 +12,7 @@ II.	Get all customer details
 III.	Unregister existing customer
 
 IV.	Update existing customer details
+
 
 2.	Items
 
@@ -26,7 +26,9 @@ IV.	Unregister an item from the list
 
 V.	Update existing item details
 
+
 3.	Create an order
+
 
 Technologies used in the project
 
