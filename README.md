@@ -3,6 +3,7 @@
 
 Order Management System API
 This system includes; 
+
 1.	Customers
 I.	Register new customer
 II.	Get all customer details
@@ -19,14 +20,18 @@ V.	Update existing item details
 3.	Create an order
 
 Technologies used in the project
+
 •	Java 
 •	Spring Boot
 •	Layered Architecture
 •	MySQL
 •	Swagger
+
 Concepts used
+
 •	Java
 OOP concepts (Encapsulation, Inheritance; Polymorphism, Abstraction); Loops (For, For each); Control statements (if, else, else if, nested if); 1D & 2D Arrays; Enums;
+
 •	Spring Boot
      Transactions; Pagination; MapStruct; Exception handling; Table mapping;
 Dependency injection; Loosely coupling;
