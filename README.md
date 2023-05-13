@@ -5,9 +5,13 @@ Order Management System API
 This system includes; 
 
 1.	Customers
+
 I.	Register new customer
+
 II.	Get all customer details
+
 III.	Unregister existing customer
+
 IV.	Update existing customer details
 
 2.	Items
