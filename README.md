@@ -42,6 +42,8 @@ Technologies used in the project
 
 •	Swagger
 
+•	Hibernate
+
 
 
 Concepts used
