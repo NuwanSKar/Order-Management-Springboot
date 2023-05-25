@@ -44,6 +44,8 @@ Technologies used in the project
 
 •	Hibernate
 
+•	Jpa
+
 
 
 Concepts used
