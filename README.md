@@ -68,7 +68,7 @@ Transactions; Pagination; MapStruct; Exception handling; Table mapping; Dependen
 
 •	Swagger 2
      
-     Used to send and get requests
+     Used to send requests and get responses
      
 ![image](https://github.com/NuwanSKar/ordermanagement-Springboot/assets/126737598/492b0779-3c5b-45ee-bb76-b3c6e9e4e286)
 ![image](https://github.com/NuwanSKar/ordermanagement-Springboot/assets/126737598/e352700f-90d6-4185-a294-e14c3ea816a4)
